@@ -1,1 +1,13 @@
-NOTHING HERE
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[SP] ESPN 1 HD" tvg-logo="https://logo.protv.cc/piconsnew/espn1.png" group-title="|NA| USA SPORTS",[SP] ESPN 1 HD
+http://lion.topcms.cc:80/P5p99153/kqKH4405/487782
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="[SP] ESPN 2 HD" tvg-logo="http://103.176.90.118/picons-dino/logos/laz.espn2hd.png" group-title="|NA| USA SPORTS",[SP] ESPN 2 HD
+http://lion.topcms.cc:80/P5p99153/kqKH4405/487781
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="[USA] COMEDY CENTRAL HD" tvg-logo="https://logo.protv.cc/piconsnew/comedycentral.png" group-title="|NA| USA GENERAL",[USA] COMEDY CENTRAL HD
+http://lion.topcms.cc:80/P5p99153/kqKH4405/469361
+#EXTINF:-1 tvg-id="" tvg-name="[KIDS] CARTOON NETWORK EAST HD" tvg-logo="https://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="|NA| USA KIDS",[KIDS] CARTOON NETWORK EAST HD
+http://lion.topcms.cc:80/P5p99153/kqKH4405/479212
+#EXTINF:-1 tvg-id="ca.TSN1" tvg-name="[SP] TSN 1 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TSN1.png" group-title="|NA| USA SPORTS",[SP] TSN 1 HD
+http://lion.topcms.cc:80/P5p99153/kqKH4405/487807
+#EXTINF:-1 tvg-id="US-MLB Network" tvg-name="[SP] MLB NETWORK HD" tvg-logo="http://103.176.90.118/picons-dino/logos/MLB-NETWORK-HD.png" group-title="|NA| USA SPORTS",[SP] MLB NETWORK HD
+http://lion.topcms.cc:80/P5p99153/kqKH4405/487766
